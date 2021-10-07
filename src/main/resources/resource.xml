@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SideDish  name="Винегрет">
+    <Bean name="" weight="100.0" calories = "14.0"></Bean>
+    <Beet name="Свекла, вареная" weight="300" calories = "43"></Beet>
+    <Carrot name="Морковь, вареная" weight="150" calories = "35"></Carrot>
+    <Onion name="Лук репчатый" weight="100" calories = "47"></Onion>
+    <Cucumber name="Огурец маринованный" weight="150" calories = "16"></Cucumber>
+    <Potato name="Картофель отварной"  weight="150.0" calories = "75"></Potato>
+</SideDish>
